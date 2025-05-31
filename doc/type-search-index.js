@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Coach"},{"p":"<Unnamed>","l":"Game"},{"p":"<Unnamed>","l":"GameManager"},{"p":"<Unnamed>","l":"NFLManagementSystem"},{"p":"<Unnamed>","l":"Player"},{"p":"<Unnamed>","l":"PlayerManager"},{"p":"<Unnamed>","l":"Team"},{"p":"<Unnamed>","l":"TeamManager"}];updateSearchResults();
